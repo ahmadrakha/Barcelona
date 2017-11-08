@@ -25,12 +25,12 @@ flex-wrap: wrap;
 }
 
 .gray {background-color: #A9A9A9;}
-.blue1 {background-color: #0000FF;}
-.red1 {background-color: #FF0000;}
-.blue2 {background-color: #0000FF;}
-.red2 {background-color: #FF0000;}
-.blue3 {background-color: #0000FF;}
-.red3 {background-color: #FF0000;}
+.blue1 {background-color: #00008B;}
+.red1 {background-color: #8B0000;}
+.blue2 {background-color: #00008B;}
+.red2 {background-color: #8B0000;}
+.blue3 {background-color: #00008B;}
+.red3 {background-color: #8B0000;}
 
 @media screen and (max-width: 800px) {
 	.column-1{
